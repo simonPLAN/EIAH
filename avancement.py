@@ -18,13 +18,10 @@ def ecrireJson(data, nomFichier):
         json.dump(data, mon_fichier)
 
 
-def listGCC(etudiant):
+def getgcc():
     data = lectureJson("662cfbebea6d4042934526197165d805_instructions.json")
     for i in range(len(data)):
-        if data[i]['username']== etudiant:
-            if data[i]['command'] == "gcc":
-
-
+        if data[i]['command'] == "gcc":
 
 
 def listUser():

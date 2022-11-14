@@ -1,0 +1,14 @@
+Indicateurs :
+1. Savoir si un élève est en difficulté à la fin de la séance :
+    _ test si les fichiers sont en erreur
+2. Savoir si un élève est en difficulté sur un endroit spécifique :
+    _ erreur répété N fois lors de compilation successives
+3. Connaitre le statut de l'élève par rapport à l'exercice (reflexion, dev, debug) :
+    _ quantité de code ajouté (delta ligne)
+    _ fonction du temps (delta time)
+4. Statut d'avancement d'un étudiant (nombre d'exercices fait)
+    _ nombre de fichier (nombre d'exercices travaillé)
+    _ taux de réussite : fichier ok / nombre de fichier total
+5. Erreurs fréquentes
+    _ compter le nombre de fois que l'erreur que s'est répété
+    _ travailler avec le type d'erreur code de retour de gcc en mode vérification syntaxique
