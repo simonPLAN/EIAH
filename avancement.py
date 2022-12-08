@@ -55,10 +55,29 @@ def rechercheseance(etudiant):
 
 
 def getseance(date):
-    seuilTemp=
-    timeline=[]
+    nbseance=0
+    tab=[]
+    tabseance = []
+
+    date1 = datetime.strptime(date[0], '%Y-%m-%dT%H:%M:%S.%fZ')
     for i in date:
-        print(i)
+        date2 = datetime.strptime(i, '%Y-%m-%dT%H:%M:%S.%fZ')
+        if date2-date1 <timedelta(hours=1):
+            tabseance.append(i)
+            date1=date2
+        else:
+            tabb=[]
+            tabb.append(tabseance[0])
+            tabb.append(tabseance[len(tabseance)-1])
+
+            tab.append(tabb)
+            tabseance.clear()
+            date1=date2
+
+            nbseance=nbseance+1
+    print(tab)
+    return nbseance
+
 
 
 
@@ -70,19 +89,13 @@ if __name__ == '__main__':
     listeEtu = listUser()
 
     for nomEtu in listeEtu:
+        print(nomEtu)
+
         date=rechercheseance(nomEtu)
-        yes=getseance(date)
-
-
-        debutseance,finseance
-        seance = {
-            "debutSeance":debutseance,
-            "finSeance":finseance,
-            "numseance": "yes"
-        }
+        nbseance=getseance(date)
         etudiant = {
             "username": nomEtu,
-            "exercice": [seance]
+            "nbseance": nbseance
         }
         data.append(etudiant)
 
