@@ -55,6 +55,7 @@ def rechercheseance(etudiant):
 
 
 def getseance(date):
+    seuilTemp=
     timeline=[]
     for i in date:
         print(i)
