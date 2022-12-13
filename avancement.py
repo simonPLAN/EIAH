@@ -36,7 +36,7 @@ def listGCC(etudiant, tabdate, nomexo):
                         print(data[i]['args'])
                         print(nomexo)
 
-                        if data[i]['args'] in nomexo:
+                        if nomexo in data[i]['args']:
                             gcc = {
                                 "timestamp": data[i]['timestamp'],
                                 "responce": data[i]['response'],
