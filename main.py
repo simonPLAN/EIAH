@@ -83,17 +83,8 @@ if __name__ == '__main__':
         etudiant = {
             "username": nomEtu,
             "listExo": listExoUser(nomEtu,fichier_vm),
-            "nbExo": len(listExoUser(nomEtu,fichier_vm)),
-            "taux_reussite": "10"
+            "nbExo": len(listExoUser(nomEtu,fichier_vm))
         }
         data.append(etudiant)
-
-        for nomExo in listExoUser(nomEtu,fichier_vm):
-            tab.append(tauxReussite(nomEtu,nomExo, fichier_in))
-
-
-        print(tab)
-
-
-   # ecrireJson(data, "etuInfo")
+    ecrireJson(data, "etuInfo")
 

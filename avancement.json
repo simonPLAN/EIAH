@@ -1,0 +1,5277 @@
+[
+  {
+    "username": "jzh4178a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:15:37.841Z",
+        "dateFin": "2022-10-20T07:30:01.834Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:08:55.289Z",
+        "dateFin": "2022-10-27T06:23:19.961Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "drr3096a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:16:03.022Z",
+        "dateFin": "2022-10-20T07:10:42.849Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.C",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:11:20.537Z",
+        "dateFin": "2022-10-27T07:25:16.419Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.C",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "CLL4212A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:16:04.505Z",
+        "dateFin": "2022-10-20T07:11:23.079Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:17:49.672Z",
+        "dateFin": "2022-10-27T07:21:23.318Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "LWD4399A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:16:48.673Z",
+        "dateFin": "2022-10-20T06:50:19.474Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "NGV4299A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:16:57.518Z",
+        "dateFin": "2022-10-20T07:18:45.078Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "rsn3979a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:16:58.728Z",
+        "dateFin": "2022-10-20T06:47:47.937Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1-2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:32:42.705Z",
+        "dateFin": "2022-10-27T06:33:10.487Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1-2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "BNL4208A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:17:04.406Z",
+        "dateFin": "2022-10-20T07:31:01.064Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:08:19.788Z",
+        "dateFin": "2022-10-27T07:28:35.978Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "MNF4376A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:17:05.319Z",
+        "dateFin": "2022-10-20T07:23:26.380Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:12:07.994Z",
+        "dateFin": "2022-10-27T06:40:48.975Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "dcg4461a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:17:08.156Z",
+        "dateFin": "2022-10-20T06:48:25.131Z",
+        "exercice": [
+          {
+            "nomExercice": ":exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:10:22.227Z",
+        "dateFin": "2022-10-27T06:16:58.683Z",
+        "exercice": [
+          {
+            "nomExercice": ":exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "VGC4458A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:17:09.500Z",
+        "dateFin": "2022-10-20T07:20:00.805Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "GRB4008A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:17:14.414Z",
+        "dateFin": "2022-10-20T07:30:54.089Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:10:39.676Z",
+        "dateFin": "2022-10-27T06:10:50.514Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "PLM4280A",
+    "nbseance": 3,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:17:25.828Z",
+        "dateFin": "2022-10-20T06:28:36.788Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1_MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-24T05:32:26.202Z",
+        "dateFin": "2022-10-24T06:04:27.110Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1_MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:08:41.777Z",
+        "dateFin": "2022-10-27T07:27:33.372Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1_MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "CHL4257A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:17:32.927Z",
+        "dateFin": "2022-10-20T07:07:01.564Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:28:32.697Z",
+        "dateFin": "2022-10-27T06:32:00.534Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "LZN3702A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:17:35.069Z",
+        "dateFin": "2022-10-20T06:55:31.616Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "HMN4425A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:17:51.146Z",
+        "dateFin": "2022-10-20T07:30:24.932Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:07:19.710Z",
+        "dateFin": "2022-10-27T07:11:45.886Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "LSJ4420A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:17:51.858Z",
+        "dateFin": "2022-10-20T07:11:51.002Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T06:38:19.584Z",
+                "responce": "",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1P2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "chercher.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:10:32.918Z",
+        "dateFin": "2022-10-27T07:31:58.075Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T06:38:19.584Z",
+                "responce": "",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1P2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "chercher.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "grn3807a",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:18:37.100Z",
+        "dateFin": "2022-10-20T07:29:05.193Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "mll1140a",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:18:50.135Z",
+        "dateFin": "2022-10-20T07:29:06.642Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "test.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "main.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "RGN4429A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:18:40.478Z",
+        "dateFin": "2022-10-20T07:11:46.770Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:10:10.433Z",
+        "dateFin": "2022-10-27T06:31:25.107Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "scc4332a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:18:48.922Z",
+        "dateFin": "2022-10-20T07:08:18.219Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:16:22.103Z",
+        "dateFin": "2022-10-27T06:42:32.505Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "BDN4438A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:19:01.810Z",
+        "dateFin": "2022-10-20T07:21:23.716Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "BRB4393A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:19:20.965Z",
+        "dateFin": "2022-10-20T06:19:20.965Z",
+        "exercice": []
+      }
+    ]
+  },
+  {
+    "username": "mhn3989a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "LMT4343A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:19:48.831Z",
+        "dateFin": "2022-10-20T07:27:43.813Z",
+        "exercice": [
+          {
+            "nomExercice": "squelette tp1_1.c.txt",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "squelette tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "squelettetp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:10:56.386Z",
+        "dateFin": "2022-10-27T07:27:40.544Z",
+        "exercice": [
+          {
+            "nomExercice": "squelette tp1_1.c.txt",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "squelette tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "squelettetp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "JNP2864A",
+    "nbseance": 3,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:19:33.266Z",
+        "dateFin": "2022-10-20T07:31:01.396Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1 MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:08:44.506Z",
+        "dateFin": "2022-10-27T07:33:17.066Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1 MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "CBL4519A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:20:36.887Z",
+        "dateFin": "2022-10-20T07:23:36.430Z",
+        "exercice": []
+      },
+      {
+        "dateDebut": "2022-10-27T06:07:08.173Z",
+        "dateFin": "2022-10-27T06:07:08.173Z",
+        "exercice": []
+      }
+    ]
+  },
+  {
+    "username": "CML4073A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "LHB3409A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:20:48.699Z",
+        "dateFin": "2022-10-20T07:31:05.438Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "makfill.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1_2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo13.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:26:52.150Z",
+        "dateFin": "2022-10-27T07:08:10.794Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "makfill.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1_2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo13.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "GRV3957B",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:21:27.947Z",
+        "dateFin": "2022-10-20T07:16:32.423Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:06:43.656Z",
+        "dateFin": "2022-10-27T07:12:10.961Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "SNC4202A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:23:01.256Z",
+        "dateFin": "2022-10-20T07:22:35.710Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "gsl4470a",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:23:34.086Z",
+        "dateFin": "2022-10-20T06:50:48.248Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "SDS2537A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:23:48.218Z",
+        "dateFin": "2022-10-20T07:11:21.927Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:27:49.195Z",
+        "dateFin": "2022-10-27T06:37:38.985Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "nrs3961a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "ptt4229a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:28:43.130Z",
+        "dateFin": "2022-10-20T06:28:43.130Z",
+        "exercice": []
+      },
+      {
+        "dateDebut": "2022-10-27T06:35:09.960Z",
+        "dateFin": "2022-10-27T06:36:24.129Z",
+        "exercice": []
+      }
+    ]
+  },
+  {
+    "username": "DMT3772A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:29:57.746Z",
+        "dateFin": "2022-10-20T07:16:34.530Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:27:26.519Z",
+        "dateFin": "2022-10-27T06:27:26.519Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "MDM4166A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:31:05.840Z",
+        "dateFin": "2022-10-20T07:31:04.587Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "MSD4555A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "prc3653a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "MRF4182A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "SZP3877A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:39:10.245Z",
+        "dateFin": "2022-10-20T07:16:48.460Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T06:12:01.435Z",
+        "dateFin": "2022-10-27T07:12:54.064Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "CJV4447A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:41:24.627Z",
+        "dateFin": "2022-10-20T06:41:24.627Z",
+        "exercice": []
+      }
+    ]
+  },
+  {
+    "username": "NGD4387A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:41:42.867Z",
+        "dateFin": "2022-10-20T06:43:36.216Z",
+        "exercice": []
+      }
+    ]
+  },
+  {
+    "username": "DVL3733A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T06:42:59.676Z",
+        "dateFin": "2022-10-20T06:42:59.676Z",
+        "exercice": []
+      }
+    ]
+  },
+  {
+    "username": "CTQ4266A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "phj4176a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "MHN4170A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:26:29.764Z",
+        "dateFin": "2022-10-20T09:00:36.574Z",
+        "exercice": [
+          {
+            "nomExercice": "exol.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:38:56.801Z",
+        "dateFin": "2022-10-27T08:48:38.212Z",
+        "exercice": [
+          {
+            "nomExercice": "exol.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "LCB4176A",
+    "nbseance": 3,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:31:21.023Z",
+        "dateFin": "2022-10-20T08:41:11.438Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3fils.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:38:37.179Z",
+        "dateFin": "2022-10-27T08:58:21.668Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3fils.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-11-10T08:35:32.859Z",
+        "dateFin": "2022-11-10T09:51:32.081Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3fils.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "DSN4384A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:35:00.309Z",
+        "dateFin": "2022-10-20T08:43:32.459Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1C.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1M.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:40:12.825Z",
+        "dateFin": "2022-10-27T09:01:10.462Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1C.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1M.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "WDR4346A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:37:11.263Z",
+        "dateFin": "2022-10-20T08:39:55.507Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:35:48.833Z",
+        "dateFin": "2022-10-27T08:28:02.438Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "bnf3924a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "sst4427a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:38:47.691Z",
+        "dateFin": "2022-10-20T08:55:03.295Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:40:14.459Z",
+        "dateFin": "2022-10-27T08:28:59.735Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "RBL4181A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:39:10.972Z",
+        "dateFin": "2022-10-20T08:42:08.908Z",
+        "exercice": []
+      }
+    ]
+  },
+  {
+    "username": "ndf4080a",
+    "nbseance": 4,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:39:42.604Z",
+        "dateFin": "2022-10-20T09:02:37.600Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-25T14:27:03.631Z",
+        "dateFin": "2022-10-25T14:46:55.063Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-25T16:11:07.476Z",
+        "dateFin": "2022-10-25T16:13:55.132Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:39:16.008Z",
+        "dateFin": "2022-10-27T08:55:33.661Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "BRT4241A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:39:58.828Z",
+        "dateFin": "2022-10-20T09:00:45.522Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:46:02.339Z",
+        "dateFin": "2022-10-27T08:55:16.504Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "MRC4302A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:40:07.914Z",
+        "dateFin": "2022-10-20T08:55:45.599Z",
+        "exercice": [
+          {
+            "nomExercice": "exol.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "ngp4334a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:40:10.846Z",
+        "dateFin": "2022-10-20T09:10:07.033Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:54:25.083Z",
+        "dateFin": "2022-10-27T09:00:23.973Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "pdh4341a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:41:05.333Z",
+        "dateFin": "2022-10-20T07:41:05.333Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "CRJ3957A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:42:04.005Z",
+        "dateFin": "2022-10-20T09:00:45.266Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc4.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:35:24.152Z",
+        "dateFin": "2022-10-27T08:58:09.883Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc4.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "CBR4247A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:42:14.662Z",
+        "dateFin": "2022-10-20T09:00:28.946Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:03:02.482Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:10: error: '$now' undeclared (first use in this function); did you mean 'now'?\n25 |   printf($now);",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:03:52.406Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:10: error: expected expression before 'time_t'\n25 |   printf(time_t);",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:04:11.256Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:10: error: expected expression before 'time_t'\n25 |   printf(time_t);",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:05:19.511Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:15: error: '$now' undeclared (first use in this function); did you mean 'now'?\n25 |   printf(time($now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:05:35.056Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:15: error: '$pid_t' undeclared (first use in this function); did you mean 'pid_t'?\n25 |   printf(time($pid_t));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:07:26.706Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:31: error: '$pid_t' undeclared (first use in this function); did you mean 'pid_t'?\n25 |   printf(\"Aujoudhui %s\", time($pid_t));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:07:47.147Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:31: error: expected expression before 'pid_t'\n25 |   printf(\"Aujoudhui %s\", time(pid_t));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:08:46.565Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:31: warning: passing argument 1 of 'time' makes pointer from integer without a cast [-Win\nt-conversion]\n25 |   printf(\"Aujoudhui %s\", time(now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:10:09.870Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:31: warning: passing argument 1 of 'time' makes pointer from integer without a cast [-Win\nt-conversion]\n25 |   printf(\"Aujoudhui %s\", time(now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:12:21.376Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:31: error: '$now' undeclared (first use in this function); did you mean 'now'?\n25 |   printf(\"Aujoudhui %s\", time($now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:14:13.640Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:26: error: '$time_t' undeclared (first use in this function); did you mean 'time_t'?\n25 |   printf(\"Aujoudhui %c\", $time_t);",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:17:12.131Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:23:17: error: 'MAX_SIZE' undeclared (first use in this function)\n23 |    char buffer[ MAX_SIZE ];",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:17:43.395Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:23:17: error: 'MAX_SIZE' undeclared (first use in this function)\n23 |     char buffer[MAX_SIZE];",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:19:16.088Z",
+                "responce": "",
+                "score": 1,
+                "replicate": true
+              }
+            ]
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tpcorrec",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:45:34.758Z",
+        "dateFin": "2022-10-27T08:53:01.249Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:03:02.482Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:10: error: '$now' undeclared (first use in this function); did you mean 'now'?\n25 |   printf($now);",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:03:52.406Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:10: error: expected expression before 'time_t'\n25 |   printf(time_t);",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:04:11.256Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:10: error: expected expression before 'time_t'\n25 |   printf(time_t);",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:05:19.511Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:15: error: '$now' undeclared (first use in this function); did you mean 'now'?\n25 |   printf(time($now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:05:35.056Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:15: error: '$pid_t' undeclared (first use in this function); did you mean 'pid_t'?\n25 |   printf(time($pid_t));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:07:26.706Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:31: error: '$pid_t' undeclared (first use in this function); did you mean 'pid_t'?\n25 |   printf(\"Aujoudhui %s\", time($pid_t));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:07:47.147Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:31: error: expected expression before 'pid_t'\n25 |   printf(\"Aujoudhui %s\", time(pid_t));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:08:46.565Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:31: warning: passing argument 1 of 'time' makes pointer from integer without a cast [-Win\nt-conversion]\n25 |   printf(\"Aujoudhui %s\", time(now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:10:09.870Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:31: warning: passing argument 1 of 'time' makes pointer from integer without a cast [-Win\nt-conversion]\n25 |   printf(\"Aujoudhui %s\", time(now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:12:21.376Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:31: error: '$now' undeclared (first use in this function); did you mean 'now'?\n25 |   printf(\"Aujoudhui %s\", time($now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:14:13.640Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:26: error: '$time_t' undeclared (first use in this function); did you mean 'time_t'?\n25 |   printf(\"Aujoudhui %c\", $time_t);",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:17:12.131Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:23:17: error: 'MAX_SIZE' undeclared (first use in this function)\n23 |    char buffer[ MAX_SIZE ];",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:17:43.395Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:23:17: error: 'MAX_SIZE' undeclared (first use in this function)\n23 |     char buffer[MAX_SIZE];",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:19:16.088Z",
+                "responce": "",
+                "score": 1,
+                "replicate": true
+              }
+            ]
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tpcorrec",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "tsn4383a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:42:14.048Z",
+        "dateFin": "2022-10-20T09:02:36.830Z",
+        "exercice": [
+          {
+            "nomExercice": ".bashrc",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1correction.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:40:00.439Z",
+        "dateFin": "2022-10-27T08:52:27.259Z",
+        "exercice": [
+          {
+            "nomExercice": ".bashrc",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1correction.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "dsf3927b",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:42:47.937Z",
+        "dateFin": "2022-10-20T09:00:20.870Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:18:02.023Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:3: error: too few arguments to function 'printf'\n25 |   printf();",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:19:05.018Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:3: error: too few arguments to function 'printf'\n25 |   printf();",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:19:39.193Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:3: error: too few arguments to function 'printf'\n25 |   printf();",
+                "score": 1,
+                "replicate": true
+              }
+            ]
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:45:19.468Z",
+        "dateFin": "2022-10-27T08:13:20.638Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:18:02.023Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:3: error: too few arguments to function 'printf'\n25 |   printf();",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:19:05.018Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:3: error: too few arguments to function 'printf'\n25 |   printf();",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:19:39.193Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:3: error: too few arguments to function 'printf'\n25 |   printf();",
+                "score": 1,
+                "replicate": true
+              }
+            ]
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "BCB4249A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:43:03.861Z",
+        "dateFin": "2022-10-20T08:59:41.693Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "PST4279A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:43:14.995Z",
+        "dateFin": "2022-10-20T09:01:43.309Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "LFL3795A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:43:46.212Z",
+        "dateFin": "2022-10-20T09:04:14.157Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc4.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:38:14.099Z",
+        "dateFin": "2022-10-27T08:43:19.268Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc4.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "WTB3923A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "prm4319a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "SLN4384A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:44:32.738Z",
+        "dateFin": "2022-10-20T09:03:03.547Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:40:07.092Z",
+        "dateFin": "2022-10-27T08:58:27.780Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "bbl4356a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:44:51.929Z",
+        "dateFin": "2022-10-20T09:02:59.595Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:38:01.716Z",
+        "dateFin": "2022-10-27T09:00:43.879Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "LRS3532A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:46:18.007Z",
+        "dateFin": "2022-10-20T09:03:33.076Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "ptx4260a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:48:41.435Z",
+        "dateFin": "2022-10-20T09:04:00.197Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:12:28.258Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:41: error: 'now' undeclared (first use in this function)\n25 |   printf(\"Aujourd'hui est : %s\", ctime(&now));",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:13:21.632Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:40: error: 'now' undeclared (first use in this function)\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:13:39.741Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:40: error: 'now' undeclared (first use in this function)\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:14:49.635Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:30: warning: format '%s' expects argument of type 'char *', but argument 2 ha\ns type 'time_t' {aka 'long int'} [-Wformat=]\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:17:14.346Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:30: warning: format '%s' expects argument of type 'char *', but argument 2 ha\ns type 'time_t' {aka 'long int'} [-Wformat=]\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:17:24.250Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:30: warning: format '%s' expects argument of type 'char *', but argument 2 ha\ns type 'time_t' {aka 'long int'} [-Wformat=]\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:18:16.661Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:30: warning: format '%s' expects argument of type 'char *', but argument 2 ha\ns type 'time_t' {aka 'long int'} [-Wformat=]\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:19:54.523Z",
+                "responce": "",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:20:52.527Z",
+                "responce": "",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:45:36.554Z",
+        "dateFin": "2022-10-27T08:57:57.986Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:12:28.258Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:41: error: 'now' undeclared (first use in this function)\n25 |   printf(\"Aujourd'hui est : %s\", ctime(&now));",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:13:21.632Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:40: error: 'now' undeclared (first use in this function)\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:13:39.741Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:40: error: 'now' undeclared (first use in this function)\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:14:49.635Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:30: warning: format '%s' expects argument of type 'char *', but argument 2 ha\ns type 'time_t' {aka 'long int'} [-Wformat=]\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:17:14.346Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:30: warning: format '%s' expects argument of type 'char *', but argument 2 ha\ns type 'time_t' {aka 'long int'} [-Wformat=]\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:17:24.250Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:30: warning: format '%s' expects argument of type 'char *', but argument 2 ha\ns type 'time_t' {aka 'long int'} [-Wformat=]\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:18:16.661Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:30: warning: format '%s' expects argument of type 'char *', but argument 2 ha\ns type 'time_t' {aka 'long int'} [-Wformat=]\n25 |   printf(\"Aujourd'hui est : %s\", time(&now));",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T08:19:54.523Z",
+                "responce": "",
+                "score": 1,
+                "replicate": true
+              },
+              {
+                "timestamp": "2022-10-20T08:20:52.527Z",
+                "responce": "",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "CHN3284A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:50:58.635Z",
+        "dateFin": "2022-10-20T07:50:58.635Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "ntn3496a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "RNC4399A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T07:55:46.427Z",
+        "dateFin": "2022-10-20T09:01:02.512Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "lambdaMdp(MenFicheDeLaSecurite)",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc4.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:38:51.039Z",
+        "dateFin": "2022-10-27T08:40:59.879Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "lambdaMdp(MenFicheDeLaSecurite)",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc4.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "BZK3886A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:13:43.360Z",
+        "dateFin": "2022-10-20T08:43:30.878Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 (1).c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:44:58.548Z",
+        "dateFin": "2022-10-27T08:56:11.847Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 (1).c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "MLR4420A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:13:49.638Z",
+        "dateFin": "2022-10-20T09:08:53.274Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils3.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T08:03:27.500Z",
+        "dateFin": "2022-10-27T08:57:50.885Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils3.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "VSL4346A",
+    "nbseance": 5,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:13:51.620Z",
+        "dateFin": "2022-10-20T09:02:34.851Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:59:20.077Z",
+                "responce": "",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-22T14:44:09.148Z",
+        "dateFin": "2022-10-22T16:03:04.463Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:59:20.077Z",
+                "responce": "",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:37:50.523Z",
+        "dateFin": "2022-10-27T08:06:15.105Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:59:20.077Z",
+                "responce": "",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-30T16:22:45.682Z",
+        "dateFin": "2022-10-30T16:38:44.375Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:59:20.077Z",
+                "responce": "",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "CNP3364A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:15:19.253Z",
+        "dateFin": "2022-10-20T08:27:40.935Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:46:32.971Z",
+        "dateFin": "2022-10-27T07:59:24.618Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "scg3560a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:12:21.902Z",
+        "dateFin": "2022-10-20T08:57:23.411Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "traitFils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "traitFils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:45:36.083Z",
+        "dateFin": "2022-10-27T09:01:00.428Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "traitFils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "traitFils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "MLJ4320A",
+    "nbseance": 6,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:16:17.085Z",
+        "dateFin": "2022-10-20T08:55:38.061Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-20T10:48:01.513Z",
+        "dateFin": "2022-10-20T11:22:52.042Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-21T07:53:16.265Z",
+        "dateFin": "2022-10-21T07:53:51.578Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:44:28.305Z",
+        "dateFin": "2022-10-27T08:55:49.919Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T11:09:42.075Z",
+        "dateFin": "2022-10-27T11:09:42.075Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T16:21:24.214Z",
+        "dateFin": "2022-10-27T16:31:42.176Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "GNC4265A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "CSM4205A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "FJL3780A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:17:14.299Z",
+        "dateFin": "2022-10-20T08:57:42.757Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T08:46:14.091Z",
+                "responce": "exo1.c:3:10: fatal error: unist.h: No such file or directory\n3 | #include <unist.h>",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "chn4038a",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:17:58.878Z",
+        "dateFin": "2022-10-20T08:30:24.615Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "dmm3793a",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:18:56.914Z",
+        "dateFin": "2022-10-20T09:00:09.963Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "brg4064a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:19:48.322Z",
+        "dateFin": "2022-10-20T09:00:29.070Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exercice5TP1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exercice5TP1",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:37:47.303Z",
+        "dateFin": "2022-10-27T08:42:00.983Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exercice5TP1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exercice5TP1",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "LLF4365A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:22:04.962Z",
+        "dateFin": "2022-10-20T08:57:45.727Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1_1Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1_1MacroPointeur.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1_2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1_3.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:41:18.419Z",
+        "dateFin": "2022-10-27T08:13:54.379Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1_1Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1_1MacroPointeur.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1_2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1_3.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "frl4491a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:22:18.564Z",
+        "dateFin": "2022-10-20T09:01:01.058Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:41:13.188Z",
+        "dateFin": "2022-10-27T08:57:58.224Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "hrg4229a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:23:31.183Z",
+        "dateFin": "2022-10-20T08:57:54.462Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:46:58.172Z",
+        "dateFin": "2022-10-27T07:52:14.940Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "pcd4177a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "CMX4056A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:25:03.014Z",
+        "dateFin": "2022-10-20T08:58:29.469Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:39:19.473Z",
+        "dateFin": "2022-10-27T09:00:26.503Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "bds3425a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:30:11.303Z",
+        "dateFin": "2022-10-20T09:02:25.379Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_exercice5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T08:17:10.228Z",
+        "dateFin": "2022-10-27T08:17:24.841Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_exercice5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "cmf4263a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T08:34:34.486Z",
+        "dateFin": "2022-10-20T09:07:34.239Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc4.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "fils.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T07:39:07.475Z",
+        "dateFin": "2022-10-27T08:55:40.925Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc4.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "fils.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "ZZN4362A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "lnl4324a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:04:51.370Z",
+        "dateFin": "2022-10-20T10:27:02.191Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T10:12:35.622Z",
+        "dateFin": "2022-10-27T10:12:53.831Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "DRP4283A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:08:54.443Z",
+        "dateFin": "2022-10-20T10:28:50.639Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "signal1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": ".bashrc",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T08:58:12.958Z",
+        "dateFin": "2022-10-27T10:28:22.580Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "signal1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": ".bashrc",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "grn4091a",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:10:36.773Z",
+        "dateFin": "2022-10-20T10:20:27.409Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_ex5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "rlt4246a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:13:50.373Z",
+        "dateFin": "2022-10-20T10:21:12.164Z",
+        "exercice": [
+          {
+            "nomExercice": "exol.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "El\u00c3\u00a9ments de correction pour les \u00c3\u00a9tudiants-20221027.zip",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "El\u00c3\u0192\u00c2\u00a9ments de correction pour les \u00c3\u0192\u00c2\u00a9tudiants-20221027.zip",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1 ancien corrig\u00c3\u00a9.odt",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1 ancien corrig\u00c3\u0192\u00c2\u00a9.odt",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TDM1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:08:14.337Z",
+        "dateFin": "2022-10-27T10:00:21.754Z",
+        "exercice": [
+          {
+            "nomExercice": "exol.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "El\u00c3\u00a9ments de correction pour les \u00c3\u00a9tudiants-20221027.zip",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "El\u00c3\u0192\u00c2\u00a9ments de correction pour les \u00c3\u0192\u00c2\u00a9tudiants-20221027.zip",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1 ancien corrig\u00c3\u00a9.odt",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TP1 ancien corrig\u00c3\u0192\u00c2\u00a9.odt",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "TDM1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "BRP2406A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:14:28.248Z",
+        "dateFin": "2022-10-20T10:18:04.851Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 MacroPointeurs.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "HRL4369A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:30:48.404Z",
+        "dateFin": "2022-10-20T10:30:20.533Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:16:28.001Z",
+        "dateFin": "2022-10-27T09:35:05.325Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "rvl3979a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:31:24.830Z",
+        "dateFin": "2022-10-20T10:31:38.833Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:11:13.689Z",
+        "dateFin": "2022-10-27T09:30:07.117Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "MNL4122A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:32:05.766Z",
+        "dateFin": "2022-10-20T10:24:48.389Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:08:25.528Z",
+        "dateFin": "2022-10-27T09:08:46.046Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "LMN4243A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:32:55.306Z",
+        "dateFin": "2022-10-20T09:57:16.137Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "ZBH4468A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:34:45.342Z",
+        "dateFin": "2022-10-20T10:15:52.087Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:18:21.077Z",
+        "dateFin": "2022-10-27T09:34:26.280Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "THP4261A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:34:55.818Z",
+        "dateFin": "2022-10-20T09:56:47.461Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-27T09:20:22.653Z",
+                "responce": "tp1_1.c: In function 'main':\ntp1_1.c:53:12: warning: implicit declaration of function 'wait' [-Wimplicit-function-declaration]\n53 |   idProc = wait( &rapport ) ;",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:08:23.073Z",
+        "dateFin": "2022-10-27T09:29:38.943Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-27T09:20:22.653Z",
+                "responce": "tp1_1.c: In function 'main':\ntp1_1.c:53:12: warning: implicit declaration of function 'wait' [-Wimplicit-function-declaration]\n53 |   idProc = wait( &rapport ) ;",
+                "score": 1,
+                "replicate": false
+              }
+            ]
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "vnm4180a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:35:48.489Z",
+        "dateFin": "2022-10-20T09:57:15.553Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 (1).c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exercice5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:04:36.551Z",
+        "dateFin": "2022-10-27T09:41:34.578Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1 (1).c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exercice5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "TRP4325A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:36:15.185Z",
+        "dateFin": "2022-10-20T10:22:29.316Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "bzj4255a",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:36:50.032Z",
+        "dateFin": "2022-10-20T10:25:13.954Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T10:08:56.920Z",
+                "responce": "exo1.c: In function 'traitFils3':\nexo1.c:104:3: error: 'v' undeclared (first use in this function)\n104 |   v=1/(v-i);",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T10:14:01.123Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:3: error: unknown type name 'Pr\\U000000e9sentation'\n25 |   Pr\u00c3\u00a9sentation d'usage",
+                "score": 1,
+                "replicate": true
+              }
+            ]
+          },
+          {
+            "nomExercice": ".exo1.c.swp",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T10:08:56.920Z",
+                "responce": "exo1.c: In function 'traitFils3':\nexo1.c:104:3: error: 'v' undeclared (first use in this function)\n104 |   v=1/(v-i);",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T10:14:01.123Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:3: error: unknown type name 'Pr\\U000000e9sentation'\n25 |   Pr\u00c3\u00a9sentation d'usage",
+                "score": 1,
+                "replicate": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:11:35.228Z",
+        "dateFin": "2022-10-27T10:25:33.242Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T10:08:56.920Z",
+                "responce": "exo1.c: In function 'traitFils3':\nexo1.c:104:3: error: 'v' undeclared (first use in this function)\n104 |   v=1/(v-i);",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T10:14:01.123Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:3: error: unknown type name 'Pr\\U000000e9sentation'\n25 |   Pr\u00c3\u00a9sentation d'usage",
+                "score": 1,
+                "replicate": true
+              }
+            ]
+          },
+          {
+            "nomExercice": ".exo1.c.swp",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-20T10:08:56.920Z",
+                "responce": "exo1.c: In function 'traitFils3':\nexo1.c:104:3: error: 'v' undeclared (first use in this function)\n104 |   v=1/(v-i);",
+                "score": 1,
+                "replicate": false
+              },
+              {
+                "timestamp": "2022-10-20T10:14:01.123Z",
+                "responce": "exo1.c: In function 'main':\nexo1.c:25:3: error: unknown type name 'Pr\\U000000e9sentation'\n25 |   Pr\u00c3\u00a9sentation d'usage",
+                "score": 1,
+                "replicate": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "DLL4509A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:37:06.910Z",
+        "dateFin": "2022-10-20T10:22:57.755Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "HCK4262A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:38:29.821Z",
+        "dateFin": "2022-10-20T09:53:57.988Z",
+        "exercice": []
+      }
+    ]
+  },
+  {
+    "username": "NTM4180A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:38:32.477Z",
+        "dateFin": "2022-10-20T09:55:57.555Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "ex5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:13:35.741Z",
+        "dateFin": "2022-10-27T10:29:11.109Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "ex5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "FRN4409A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:38:45.711Z",
+        "dateFin": "2022-10-20T09:55:40.751Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1(1).c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1cor.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:11:32.952Z",
+        "dateFin": "2022-10-27T09:21:33.259Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1(1).c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "tp1_1cor.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "WZT3975A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:39:41.752Z",
+        "dateFin": "2022-10-20T09:43:42.719Z",
+        "exercice": [
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "pmg3834a",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:40:19.047Z",
+        "dateFin": "2022-10-20T09:40:19.047Z",
+        "exercice": []
+      }
+    ]
+  },
+  {
+    "username": "MND3971A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:41:17.669Z",
+        "dateFin": "2022-10-20T10:29:03.344Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-27T09:24:42.045Z",
+                "responce": "gcc: fatal error: no input files\ncompilation terminated.",
+                "score": 0,
+                "replicate": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dateDebut": "2022-10-27T09:13:52.016Z",
+        "dateFin": "2022-10-27T10:25:24.048Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": [
+              {
+                "timestamp": "2022-10-27T09:24:42.045Z",
+                "responce": "gcc: fatal error: no input files\ncompilation terminated.",
+                "score": 0,
+                "replicate": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "WWK3556A",
+    "nbseance": 2,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:41:25.590Z",
+        "dateFin": "2022-10-20T09:52:03.933Z",
+        "exercice": []
+      }
+    ]
+  },
+  {
+    "username": "GVT3906A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-20T09:44:34.648Z",
+        "dateFin": "2022-10-20T09:55:55.603Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "frn4277a",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-27T06:07:06.521Z",
+        "dateFin": "2022-10-27T07:04:06.825Z",
+        "exercice": [
+          {
+            "nomExercice": "main.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "kcr4364a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "src4381a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "nrm4206a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "kwb3565a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "BNH4388A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "PRC3653A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "crk2789a",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-27T06:25:15.524Z",
+        "dateFin": "2022-10-27T07:02:21.517Z",
+        "exercice": [
+          {
+            "nomExercice": "tp1_1 Macro.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "FXC4501A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "plt3836a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "BNF3924A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-27T07:31:37.891Z",
+        "dateFin": "2022-10-27T09:01:04.814Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "proc2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "p2fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "PHJ4176A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-27T07:42:47.616Z",
+        "dateFin": "2022-10-27T09:01:07.236Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo1Coriger.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "fils1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "fils2.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "fils3.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo3.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "LMN3783A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "MLL4409A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "PRM4319A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "gnc4265a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "NTN3496A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "zzn4362a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "PCD4177A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "LNL4324A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-27T09:05:44.372Z",
+        "dateFin": "2022-10-27T10:12:02.100Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          },
+          {
+            "nomExercice": "exo5.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "GRN4091A",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "dqm3697a",
+    "nbseance": 0,
+    "seance": []
+  },
+  {
+    "username": "frg4266a",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-27T09:12:30.632Z",
+        "dateFin": "2022-10-27T10:29:53.544Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "FRS4098A",
+    "nbseance": 1,
+    "seance": [
+      {
+        "dateDebut": "2022-10-27T09:16:51.545Z",
+        "dateFin": "2022-10-27T09:28:40.291Z",
+        "exercice": [
+          {
+            "nomExercice": "exo1.c",
+            "statut": "a faire",
+            "gcc": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "gnc4265A",
+    "nbseance": 0,
+    "seance": []
+  }
+]

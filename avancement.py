@@ -4,6 +4,8 @@ import statistics
 import re
 from dataclasses import dataclass
 
+from main import listExoUser
+
 
 # Lecture du fichier JSON
 def lectureJson(nomFichier):
@@ -20,25 +22,29 @@ def ecrireJson(data, nomFichier):
         json.dump(data, mon_fichier, indent=2)
 
 
-def listGCC(etudiant,tabdate):
+def listGCC(etudiant, tabdate, nomexo):
     data = lectureJson("662cfbebea6d4042934526197165d805_instructions.json")
-    tabajout=[]
-    tab=[]
+    tab = []
     for date in range(len(tabdate)):
         datedebut = datetime.strptime(tabdate[date][0], '%Y-%m-%dT%H:%M:%S.%fZ')
         datefin = datetime.strptime(tabdate[date][1], '%Y-%m-%dT%H:%M:%S.%fZ')
-        tabajout.clear()
         for i in range(len(data)):
             if data[i]['username'] == etudiant:
                 if data[i]['command'] == "gcc":
                     dategcc = datetime.strptime(data[i]['timestamp'], '%Y-%m-%dT%H:%M:%S.%fZ')
                     if datedebut < dategcc < datefin:
-                        tabajout.append(data[i]['args'] + " | "+data[i]['response'])
-        tab.append(tabajout)
+                        print(data[i]['args'])
+                        print(nomexo)
 
-    print(tab)
+                        if data[i]['args'] in nomexo:
+                            gcc = {
+                                "timestamp": data[i]['timestamp'],
+                                "responce": data[i]['response'],
+                                "score": data[i]['score'],
+                                "replicate": data[i]['replicate']
+                            }
+                            tab.append(gcc)
     return tab
-
 
 
 def listUser():
@@ -93,6 +99,32 @@ def getseance(date):
     return doubleret(tab, nbseance)
 
 
+def getavancementexercice(listeExoUser, nomEtu, i, date):
+    listeexerciceReturn = []
+
+    for exo in listeExoUser:
+        exercice = {
+            "nomExercice": exo,
+            "statut": "a faire",
+            "gcc": listGCC(nomEtu, date, exo)
+        }
+        listeexerciceReturn.append(exercice)
+
+    return listeexerciceReturn
+
+
+def getInfoSeance(tabdate, listeExoUser, nomEtu):
+    returne = []
+    for i in range(len(tabdate)):
+        avancementEtu = {
+            "dateDebut": tabdate[i][0],
+            "dateFin": tabdate[i][1],
+            "exercice": getavancementexercice(listeExoUser, nomEtu, i, tabdate)
+        }
+        returne.append(avancementEtu)
+    return returne
+
+
 if __name__ == '__main__':
     data = []
 
@@ -100,19 +132,21 @@ if __name__ == '__main__':
 
     for nomEtu in listeEtu:
         print(nomEtu)
+        fichier_vm = lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
+        listeExoUser = listExoUser(nomEtu, fichier_vm)
         tabdate = []
         date = rechercheseance(nomEtu)
         x = getseance(date)
         tabdate = x.tab
         nbseance = x.nbseance
+
         etudiant = {
             "username": nomEtu,
             "nbseance": nbseance,
-            "dateseance": tabdate,
-            "gcc":listGCC(nomEtu,tabdate)
+            "seance": getInfoSeance(tabdate, listeExoUser, nomEtu)
         }
         data.append(etudiant)
 
-    ecrireJson(data, "etuInfo")
+    ecrireJson(data, "avancement")
 
     print(listeEtu)
