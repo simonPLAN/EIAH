@@ -33,10 +33,10 @@ def listGCC(etudiant, tabdate, nomexo):
                 if data[i]['command'] == "gcc":
                     dategcc = datetime.strptime(data[i]['timestamp'], '%Y-%m-%dT%H:%M:%S.%fZ')
                     if datedebut < dategcc < datefin:
-                        print(data[i]['args'])
-                        print(nomexo)
-
-                        if nomexo in data[i]['args']:
+                        print("nom gcc " + data[i]['args'])
+                        print("nom exo " + nomexo)
+                        test = str(nomexo).split("/")
+                        if test[-1] in data[i]['args']:
                             gcc = {
                                 "timestamp": data[i]['timestamp'],
                                 "responce": data[i]['response'],

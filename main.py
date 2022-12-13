@@ -43,7 +43,8 @@ def listExoUser(etu,fichier):
 
     for trace in fichier:
         if trace.get('username') == etu:
-            fln = trace.get('fileName','')
+            fln = trace.get('filePath','')
+            fln.lower()
             if fln not in listExo and fln != '':
                 if re.search(".*.c", fln):
                     listExo.append(fln)
