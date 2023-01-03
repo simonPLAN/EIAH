@@ -33,8 +33,6 @@ def listGCC(etudiant, tabdate, nomexo):
                 if data[i]['command'] == "gcc":
                     dategcc = datetime.strptime(data[i]['timestamp'], '%Y-%m-%dT%H:%M:%S.%fZ')
                     if datedebut < dategcc < datefin:
-                        print("nom gcc " + data[i]['args'])
-                        print("nom exo " + nomexo)
                         test = str(nomexo).split("/")
                         if test[-1] in data[i]['args']:
                             gcc = {
@@ -100,13 +98,30 @@ def getseance(date):
 
 
 def getavancementexercice(listeExoUser, nomEtu, i, date):
-    listeexerciceReturn = []
+    global test
+    test = "null"
 
+    listeexerciceReturn = []
     for exo in listeExoUser:
+        gcc = listGCC(nomEtu, date, exo)
+        for i in gcc:
+            test = str(i['responce'])
+            if test != "":
+
+                if test.__contains__("error"):
+                    test2 = test.split("error: ")
+                    test = test2
+                if test.__contains__("warning"):
+                    test2 = test.split("warning: ")
+                    test = test2
+
+            if test == "":
+                test = "exoFini"
         exercice = {
             "nomExercice": exo,
             "statut": "a faire",
-            "gcc": listGCC(nomEtu, date, exo)
+            "gcc": gcc,
+            "error": test
         }
         listeexerciceReturn.append(exercice)
 
@@ -119,6 +134,7 @@ def getInfoSeance(tabdate, listeExoUser, nomEtu):
         avancementEtu = {
             "dateDebut": tabdate[i][0],
             "dateFin": tabdate[i][1],
+            "statutGlobalSeance": "a faire",
             "exercice": getavancementexercice(listeExoUser, nomEtu, i, tabdate)
         }
         returne.append(avancementEtu)
