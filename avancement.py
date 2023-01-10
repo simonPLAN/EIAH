@@ -145,7 +145,9 @@ def getInfoSeance(tabdate, listeExoUser, nomEtu):
             "dateDebut": tabdate[i][0],
             "dateFin": tabdate[i][1],
             "statutGlobalSeance": "a faire",
-            "exercice": getavancementexercice(listeExoUser, nomEtu, i, tabdate)
+            "exercice": getavancementexercice(listeExoUser, nomEtu, i, tabdate),
+            "tauxReussite":null
+
         }
         returne.append(avancementEtu)
     return returne
@@ -211,6 +213,7 @@ if __name__ == '__main__':
 
             vecteurPersonne.append(nb)
             vecteurPersonne.append(error)
+
 
             vecteur.append(vecteurPersonne)
 
