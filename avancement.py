@@ -188,8 +188,15 @@ if __name__ == '__main__':
             error = 0
             for j in i['seance']:
 
-                if j['statutGlobalSeance'] == 'a faire':
-                    nb = nb + 1
+                if j['statutGlobalSeance'] == 'reflexion':
+                    nb = 0
+                if j['statutGlobalSeance'] == 'dev':
+                    nb = 1
+
+                if j['statutGlobalSeance'] == 'terminer':
+                    nb = 2
+                if j['statutGlobalSeance'] == 'debug':
+                    nb = 3
 
                 exercice = j['exercice']
                 for o in exercice:
