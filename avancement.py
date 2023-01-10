@@ -146,7 +146,7 @@ def getInfoSeance(tabdate, listeExoUser, nomEtu):
             "dateFin": tabdate[i][1],
             "statutGlobalSeance": "a faire",
             "exercice": getavancementexercice(listeExoUser, nomEtu, i, tabdate),
-            "tauxReussite":null
+            "tauxReussite": "null"
 
         }
         returne.append(avancementEtu)
@@ -188,6 +188,7 @@ if __name__ == '__main__':
             vecteurPersonne = []
             nb = 0
             error = 0
+
             for j in i['seance']:
 
                 if j['statutGlobalSeance'] == 'reflexion':
@@ -199,21 +200,19 @@ if __name__ == '__main__':
                     nb = 2
                 if j['statutGlobalSeance'] == 'debug':
                     nb = 3
-
+                vecteurPersonne.append(j['tauxReussite'])
                 exercice = j['exercice']
                 for o in exercice:
+
                     gcc = o['error']
 
                     if gcc == 'exoFini':
                         error = error + 1
                     if gcc == 'probleme':
                         error = error - 1
-                    if gcc == 'liste vide':
-                        error = error
 
             vecteurPersonne.append(nb)
             vecteurPersonne.append(error)
-
 
             vecteur.append(vecteurPersonne)
 
