@@ -38,12 +38,12 @@ def listUser(fichier):
     return listEtu
 
 
-def listExoUser(etu,fichier):
+def listExoUser(etu, fichier):
     listExo = []
 
     for trace in fichier:
         if trace.get('username') == etu:
-            fln = trace.get('filePath','')
+            fln = trace.get('filePath', '')
             fln.lower()
             if fln not in listExo and fln != '':
                 if re.search(".*.c", fln):
@@ -52,11 +52,11 @@ def listExoUser(etu,fichier):
         # Récupération uniquememnt des user étudiants (les profs n'ont pas de chiffre dans leur users)
     return listExo
 
-def tauxReussite(etu,exo,fichier):
 
+def tauxReussite(etu, exo, fichier):
     for trace in fichier:
         #    "timestamp": "2022-10-20T06:46:18.217Z",
-        tmp = datetime.strptime('2000-10-20T06:46:18.217Z','%Y-%m-%dT%H:%M:%S.%fZ')
+        tmp = datetime.strptime('2000-10-20T06:46:18.217Z', '%Y-%m-%dT%H:%M:%S.%fZ')
 
         if trace.get('username') == etu and trace.get('fileName') == exo and trace.get('command') == "gcc":
             tmpZZZ = datetime.strptime(trace.get('timestamp'), '%Y-%m-%dT%H:%M:%S.%fZ')
@@ -67,13 +67,11 @@ def tauxReussite(etu,exo,fichier):
             else:
                 status = "error"
 
-    return tmp,status
-
+    return tmp, status
 
 
 if __name__ == '__main__':
     data = []
-
 
     fichier_in = lectureJson("662cfbebea6d4042934526197165d805_instructions.json")
     fichier_vm = lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
@@ -83,9 +81,8 @@ if __name__ == '__main__':
     for nomEtu in listeEtu:
         etudiant = {
             "username": nomEtu,
-            "listExo": listExoUser(nomEtu,fichier_vm),
-            "nbExo": len(listExoUser(nomEtu,fichier_vm))
+            "listExo": listExoUser(nomEtu, fichier_vm),
+            "nbExo": len(listExoUser(nomEtu, fichier_vm))
         }
         data.append(etudiant)
     ecrireJson(data, "etuInfo")
-

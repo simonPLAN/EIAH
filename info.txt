@@ -1,9 +1,10 @@
 Indicateurs :
 1. Savoir si un élève est en difficulté à la fin de la séance : --SIMON
-    _ test si les fichiers sont en erreur
+    _ test si les fichiers sont en erreur --- compile -> 1  /  erreur -> 2
+    si 7il y a un exercice qi est erreure alors la seance est difficile
 
-2. Savoir si un élève est en difficulté sur un endroit spécifique : --SIMON
-    _ erreur répété N fois lors de compilation successives
+(2. Savoir si un élève est en difficulté sur un endroit spécifique : --SIMON
+    _ erreur répété N fois lors de compilation successives/ nom de l'erreure et cb de fois il la eu. )
 
 3. Connaitre le statut de l'élève par rapport à l'exercice (reflexion, dev, debug, fini) : --ANAIS
     _ quantité de code ajouté (delta ligne)

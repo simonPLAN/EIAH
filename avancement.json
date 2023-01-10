@@ -25,7 +25,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -51,7 +51,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -115,7 +115,7 @@
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/root/TP1/exo1.c",
@@ -140,13 +140,13 @@
             "nomExercice": "/home/lambda/TP1/proc3.C",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -204,7 +204,7 @@
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/root/TP1/exo1.c",
@@ -229,13 +229,13 @@
             "nomExercice": "/home/lambda/TP1/proc3.C",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -297,7 +297,7 @@
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/root/TP1/exo1.c",
@@ -396,7 +396,7 @@
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/root/TP1/exo1.c",
@@ -458,13 +458,13 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1 MacroPointeurs.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -483,31 +483,31 @@
             "nomExercice": "/root/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -526,13 +526,13 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1-2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -545,13 +545,13 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1-2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -698,7 +698,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
@@ -784,7 +784,7 @@
             "nomExercice": "/home/lambda/TP1/exo5/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -925,7 +925,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
@@ -1011,7 +1011,7 @@
             "nomExercice": "/home/lambda/TP1/exo5/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -1061,7 +1061,7 @@
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -1105,7 +1105,7 @@
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -1124,7 +1124,7 @@
             "nomExercice": "/home/lambda/:exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -1137,7 +1137,7 @@
             "nomExercice": "/home/lambda/:exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -1156,7 +1156,7 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -1175,7 +1175,7 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -1188,7 +1188,7 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -1207,7 +1207,7 @@
             "nomExercice": "/home/lambda/TP1/tp1_1 MacroPointeurs.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1_MacroPointeurs.c",
@@ -1264,7 +1264,7 @@
             "nomExercice": "/home/lambda/TP1/tp1_1 MacroPointeurs.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1_MacroPointeurs.c",
@@ -1321,7 +1321,7 @@
             "nomExercice": "/home/lambda/TP1/tp1_1 MacroPointeurs.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1_MacroPointeurs.c",
@@ -1384,13 +1384,13 @@
             "nomExercice": "/home/lambda/tp1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/root/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -1403,13 +1403,13 @@
             "nomExercice": "/home/lambda/tp1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/root/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -1428,7 +1428,7 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -2172,19 +2172,19 @@
             "nomExercice": "/home/lambda/TP1/exo2/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_Exo3/proc3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/EXO5_chercher/chercher.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -2610,19 +2610,19 @@
             "nomExercice": "/home/lambda/TP1/exo2/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_Exo3/proc3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/EXO5_chercher/chercher.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -2641,13 +2641,13 @@
             "nomExercice": "/root/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -2739,7 +2739,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/TP1/test.c",
@@ -2758,7 +2758,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/TP1/main.c",
@@ -2777,13 +2777,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/TP1/Exercice2/p2fils.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -2872,7 +2872,7 @@
             "nomExercice": "/home/lambda/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -2885,7 +2885,7 @@
             "nomExercice": "/home/lambda/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -2971,25 +2971,25 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -3074,7 +3074,7 @@
             "nomExercice": "/home/lambda/TP1/tp1_1 Macro.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1MacroPointeurs.c",
@@ -3240,7 +3240,7 @@
             "nomExercice": "/home/lambda/TP1/exo2/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -3302,7 +3302,7 @@
             "nomExercice": "/home/lambda/TP1/tp1_1 Macro.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1MacroPointeurs.c",
@@ -3468,7 +3468,7 @@
             "nomExercice": "/home/lambda/TP1/exo2/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -3487,7 +3487,7 @@
             "nomExercice": "/home/lambda/TP1/tp1_1 MacroPointeurs.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1MacroPointeurs.c",
@@ -3513,7 +3513,7 @@
             "nomExercice": "/home/lambda/TP1/tp1_1 MacroPointeurs.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1MacroPointeurs.c",
@@ -3648,13 +3648,13 @@
             "nomExercice": "/home/lambda/TP1/exo1_2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo13.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -3747,13 +3747,13 @@
             "nomExercice": "/home/lambda/TP1/exo1_2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo13.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -3797,13 +3797,13 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -3841,13 +3841,13 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -3866,7 +3866,7 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -3885,7 +3885,7 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -3911,7 +3911,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -3931,7 +3931,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -3973,7 +3973,7 @@
             "nomExercice": "/home/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -3986,7 +3986,7 @@
             "nomExercice": "/home/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -4005,13 +4005,13 @@
             "nomExercice": "/root/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -4064,13 +4064,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2/fils1.c",
@@ -4131,7 +4131,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2/fils2.c",
@@ -4150,7 +4150,7 @@
             "nomExercice": "/home/lambda/TP1/exo2/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2/p2fils1.c",
@@ -4211,7 +4211,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2/p2fils2.c",
@@ -4256,13 +4256,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2/fils1.c",
@@ -4323,7 +4323,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2/fils2.c",
@@ -4342,7 +4342,7 @@
             "nomExercice": "/home/lambda/TP1/exo2/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2/p2fils1.c",
@@ -4403,7 +4403,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2/p2fils2.c",
@@ -4481,7 +4481,7 @@
             "nomExercice": "/home/lambda/TP1/exol.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
@@ -4584,31 +4584,31 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -4621,7 +4621,7 @@
             "nomExercice": "/home/lambda/TP1/exol.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
@@ -4724,31 +4724,31 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -5108,19 +5108,19 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3fils.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -5474,19 +5474,19 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3fils.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -5840,19 +5840,19 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3fils.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -5896,7 +5896,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1C.c",
@@ -5915,7 +5915,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1M.c",
@@ -5953,13 +5953,13 @@
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
@@ -5972,13 +5972,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -6016,7 +6016,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1C.c",
@@ -6035,7 +6035,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1M.c",
@@ -6073,13 +6073,13 @@
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
@@ -6092,13 +6092,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -6142,7 +6142,7 @@
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -6180,7 +6180,7 @@
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -6271,25 +6271,25 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -6369,25 +6369,25 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -6425,13 +6425,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -6451,13 +6451,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -6477,13 +6477,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -6503,13 +6503,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -6724,7 +6724,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
@@ -6743,7 +6743,7 @@
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -6952,7 +6952,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
@@ -6971,7 +6971,7 @@
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -7033,25 +7033,25 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -7077,31 +7077,31 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -7121,31 +7121,31 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -7164,25 +7164,25 @@
             "nomExercice": "/home/lamba/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lamba/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lamba/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lamba/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -7414,19 +7414,19 @@
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc4.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -7652,19 +7652,19 @@
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc4.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -7990,7 +7990,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
@@ -8003,7 +8003,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_2/p2fils1.c",
@@ -8034,7 +8034,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1/tpcorrec",
@@ -8047,7 +8047,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1/tp1_1.c",
@@ -8060,7 +8060,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_2/p2fils2.c",
@@ -8097,7 +8097,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_2/proc2.c",
@@ -8212,7 +8212,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_2/proc2",
@@ -8333,13 +8333,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_5/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -8659,7 +8659,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
@@ -8672,7 +8672,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_2/p2fils1.c",
@@ -8703,7 +8703,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1/tpcorrec",
@@ -8716,7 +8716,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1/tp1_1.c",
@@ -8729,7 +8729,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_2/p2fils2.c",
@@ -8766,7 +8766,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_2/proc2.c",
@@ -8881,7 +8881,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_2/proc2",
@@ -9002,13 +9002,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_5/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -9027,7 +9027,7 @@
             "nomExercice": "/home/lambda/.bashrc",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/root/TP1/exo1.c",
@@ -9258,7 +9258,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
@@ -9368,7 +9368,7 @@
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -9381,7 +9381,7 @@
             "nomExercice": "/home/lambda/.bashrc",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/root/TP1/exo1.c",
@@ -9612,7 +9612,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
@@ -9722,7 +9722,7 @@
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -9844,25 +9844,25 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/tp1/tp1Part2/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1/tp1Part2/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1/tp1ex5/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -9978,25 +9978,25 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/tp1/tp1Part2/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1/tp1Part2/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1/tp1ex5/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -10015,7 +10015,7 @@
             "nomExercice": "/root/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1.c",
@@ -10166,25 +10166,25 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -10495,7 +10495,7 @@
             "nomExercice": "/home/lambda/tp1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1Part2/p2fils1.c",
@@ -10540,19 +10540,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/tp1Part3/proc3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1Part4/proc4.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -10626,7 +10626,7 @@
             "nomExercice": "/home/lambda/tp1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1Part2/p2fils1.c",
@@ -10671,19 +10671,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/tp1Part3/proc3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1Part4/proc4.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -10725,31 +10725,31 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -10775,31 +10775,31 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -10886,13 +10886,13 @@
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -10973,13 +10973,13 @@
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -11041,19 +11041,19 @@
             "nomExercice": "/home/lambda/tp2/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp2/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp2/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -11217,7 +11217,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils1.c",
@@ -11248,7 +11248,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils2.c",
@@ -11291,7 +11291,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/proc2.c",
@@ -11322,7 +11322,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -11480,7 +11480,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils1.c",
@@ -11511,7 +11511,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils2.c",
@@ -11554,7 +11554,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/proc2.c",
@@ -11585,7 +11585,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -11604,7 +11604,7 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -11858,7 +11858,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
@@ -11908,19 +11908,19 @@
             "nomExercice": "/home/lambda/lambdaMdp(MenFicheDeLaSecurite)",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc4.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -12163,7 +12163,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
@@ -12213,19 +12213,19 @@
             "nomExercice": "/home/lambda/lambdaMdp(MenFicheDeLaSecurite)",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/proc4.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -12251,19 +12251,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -12283,19 +12283,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -12321,7 +12321,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
@@ -12340,25 +12340,25 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -12378,7 +12378,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
@@ -12397,25 +12397,25 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -12801,7 +12801,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
@@ -13174,7 +13174,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -13554,7 +13554,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
@@ -13927,7 +13927,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -14307,7 +14307,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
@@ -14680,7 +14680,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -15060,7 +15060,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
@@ -15433,7 +15433,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -15459,7 +15459,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -15479,7 +15479,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -15523,7 +15523,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/tp2/exo2.c",
@@ -15687,19 +15687,19 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/tp2/traitFils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp2/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -15737,7 +15737,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/tp2/exo2.c",
@@ -15901,19 +15901,19 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/tp2/traitFils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp2/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -15932,19 +15932,19 @@
             "nomExercice": "/home/julien/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -15957,19 +15957,19 @@
             "nomExercice": "/home/julien/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -15982,19 +15982,19 @@
             "nomExercice": "/home/julien/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -16007,19 +16007,19 @@
             "nomExercice": "/home/julien/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -16032,19 +16032,19 @@
             "nomExercice": "/home/julien/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -16057,19 +16057,19 @@
             "nomExercice": "/home/julien/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/julien/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -16123,7 +16123,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/root/exo1.c",
@@ -16154,7 +16154,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/exo1.c",
@@ -16185,7 +16185,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
@@ -16216,7 +16216,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -16235,7 +16235,7 @@
             "nomExercice": "/home/lambda/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -16279,25 +16279,25 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -16316,25 +16316,25 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exercice5TP1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/MacroPointeurs.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/Macro.c",
@@ -16371,7 +16371,7 @@
             "nomExercice": "/home/lambda/TP1/exercice5TP1",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -16384,25 +16384,25 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exercice5TP1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/MacroPointeurs.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/Macro.c",
@@ -16439,7 +16439,7 @@
             "nomExercice": "/home/lambda/TP1/exercice5TP1",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -16458,43 +16458,43 @@
             "nomExercice": "/home/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_1Macro.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_1MacroPointeur.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -16507,43 +16507,43 @@
             "nomExercice": "/home/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_1Macro.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_1MacroPointeur.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/TP1_3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -16605,13 +16605,13 @@
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -16667,13 +16667,13 @@
             "nomExercice": "/home/lambda/TP1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -16783,7 +16783,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
@@ -16880,7 +16880,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -16984,7 +16984,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
@@ -17081,7 +17081,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -17142,7 +17142,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -17192,7 +17192,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -17230,7 +17230,7 @@
             "nomExercice": "/home/lambda/tp1_exercice5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -17262,7 +17262,7 @@
             "nomExercice": "/home/lambda/tp1_exercice5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -17408,7 +17408,7 @@
             "nomExercice": "/home/lambda/TP2/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo2/p2fils1.c",
@@ -17652,31 +17652,31 @@
             "nomExercice": "/home/lambda/TP2/exo3/proc3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/proc4.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo4/proc4.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo5/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo5/fils.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       },
@@ -17816,7 +17816,7 @@
             "nomExercice": "/home/lambda/TP2/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo2/p2fils1.c",
@@ -18060,31 +18060,31 @@
             "nomExercice": "/home/lambda/TP2/exo3/proc3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/proc4.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo4/proc4.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo5/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo5/fils.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -18145,13 +18145,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -18201,13 +18201,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -18329,7 +18329,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
@@ -18438,25 +18438,25 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
@@ -18481,13 +18481,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP3/exo1.c",
@@ -18596,19 +18596,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP3/signal1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/root/.bashrc",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -18724,7 +18724,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1.c",
@@ -18833,25 +18833,25 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/proc2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
@@ -18876,13 +18876,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP3/exo1.c",
@@ -18991,19 +18991,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP3/signal1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/root/.bashrc",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -19022,31 +19022,31 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1 Macro.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1 MacroPointeurs.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_ex5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -19065,49 +19065,49 @@
             "nomExercice": "/root/TP1/exol.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/El\u00c3\u0192\u00c2\u00a9ments de correction pour les \u00c3\u0192\u00c2\u00a9tudiants-20221027.zip",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1 ancien corrig\u00c3\u0192\u00c2\u00a9.odt",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1_1 Macro.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TDM1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       },
@@ -19120,49 +19120,49 @@
             "nomExercice": "/root/TP1/exol.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/El\u00c3\u0192\u00c2\u00a9ments de correction pour les \u00c3\u0192\u00c2\u00a9tudiants-20221027.zip",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1 ancien corrig\u00c3\u0192\u00c2\u00a9.odt",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1_1 Macro.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TDM1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -19188,19 +19188,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/tp1/tp1_1 Macro.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/tp1/tp1_1 MacroPointeurs.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -19269,7 +19269,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -19332,7 +19332,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -19524,7 +19524,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -19556,7 +19556,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -19612,7 +19612,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -19650,7 +19650,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -19694,19 +19694,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/paul/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/paul/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -19744,19 +19744,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/paul/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/paul/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -19794,19 +19794,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/paul/tp1_1 (1).c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/paul/tp1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/paul/tp1/tp1_1.c",
@@ -19831,13 +19831,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/paul/exercice5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -19869,19 +19869,19 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/paul/tp1_1 (1).c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/paul/tp1/p2fils1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/paul/tp1/tp1_1.c",
@@ -19906,13 +19906,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/paul/exercice5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -19931,7 +19931,7 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -19963,13 +19963,13 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/.exo1.c.swp",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -19995,13 +19995,13 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP1/.exo1.c.swp",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -20020,7 +20020,7 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -20094,13 +20094,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/mathieu/TP1/tp1_2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/mathieu/TP1/p2fils1.c",
@@ -20113,13 +20113,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/mathieu/TP1/ex5/ex5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       },
@@ -20175,13 +20175,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/mathieu/TP1/tp1_2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/mathieu/TP1/p2fils1.c",
@@ -20194,13 +20194,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/mathieu/TP1/ex5/ex5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           }
         ]
       }
@@ -20219,7 +20219,7 @@
             "nomExercice": "/home/etu/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/etu/tp1_1(1).c",
@@ -20232,7 +20232,7 @@
                 "replicate": false
               }
             ],
-            "error": "e r r o r"
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/etu/tp1_1cor.c",
@@ -20251,7 +20251,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -20264,7 +20264,7 @@
             "nomExercice": "/home/etu/tp1_1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/etu/tp1_1(1).c",
@@ -20277,7 +20277,7 @@
                 "replicate": false
               }
             ],
-            "error": "e r r o r"
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/etu/tp1_1cor.c",
@@ -20296,7 +20296,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -20315,7 +20315,7 @@
             "nomExercice": "/home/lambda/TP1/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -20371,7 +20371,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       },
@@ -20409,7 +20409,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -20440,7 +20440,7 @@
             "nomExercice": "/home/toga/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -20459,7 +20459,7 @@
             "nomExercice": "/root/main.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -20508,7 +20508,7 @@
             "nomExercice": "/home/lambda/TP1/tp1_1 Macro.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
@@ -20544,13 +20544,13 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/exo2.c",
             "statut": "a faire",
             "gcc": [],
-            "error": ""
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP2/proc2.c",
@@ -20611,7 +20611,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils2.c",
@@ -20648,7 +20648,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           },
           {
             "nomExercice": "/home/lambda/TP2/p2fils1.c",
@@ -20679,7 +20679,7 @@
                 "replicate": false
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -20698,7 +20698,7 @@
             "nomExercice": "/home/lambda/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo1Coriger.c",
@@ -20779,13 +20779,13 @@
             "nomExercice": "/home/lambda/TP1/fils3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           },
           {
             "nomExercice": "/home/lambda/TP1/exo3.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -20985,7 +20985,7 @@
             "nomExercice": "/home/lambda/TP1/exo5.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "exoFini"
+            "error": "liste vide"
           }
         ]
       }
@@ -21105,7 +21105,7 @@
                 "replicate": true
               }
             ],
-            "error": ""
+            "error": "probleme"
           }
         ]
       }
@@ -21124,7 +21124,7 @@
             "nomExercice": "/root/TP1/exo1.c",
             "statut": "a faire",
             "gcc": [],
-            "error": "null"
+            "error": "liste vide"
           }
         ]
       }
