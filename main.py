@@ -88,7 +88,8 @@ def listExoUser(etu,fichier):
 #     return truc, res
 
 
-def rtuc(etu, listExo, fichier):
+def tauxReussite(etu, listExo):
+    fichier = lectureJson("662cfbebea6d4042934526197165d805_instructions.json")
 
     tabfinal = {}
     status = ""
@@ -124,7 +125,7 @@ def rtuc(etu, listExo, fichier):
 
         resTaux = tauxreussite / len(listExo) * 100
 
-    return tabfinal, resTaux
+    return resTaux
 
 if __name__ == '__main__':
     data = []
@@ -140,10 +141,10 @@ if __name__ == '__main__':
     for nomEtu in listeEtu:
         listReussite = []
         listExo = listExoUser(nomEtu, fichier_vm)
-        val, tauxR = rtuc(nomEtu,listExoUser(nomEtu, fichier_vm), fichier_in)
+        tauxR = tauxReussite(nomEtu,listExoUser(nomEtu, fichier_vm))
         # listReussite.append(val)
         # truc2 = {
-        print(nomEtu,": " ,val)
+        print(nomEtu,": " )
         print('TauxR' , tauxR)
         # }
         # truc.update(truc2)

@@ -9,6 +9,7 @@ from sklearn.cluster import KMeans
 
 from main import listExoUser
 
+import main
 
 # Lecture du fichier JSON
 def lectureJson(nomFichier):
@@ -146,7 +147,7 @@ def getInfoSeance(tabdate, listeExoUser, nomEtu):
             "dateFin": tabdate[i][1],
             "statutGlobalSeance": "a faire",
             "exercice": getavancementexercice(listeExoUser, nomEtu, i, tabdate),
-            "tauxReussite": "null"
+            "tauxReussite": main.tauxReussite(nomEtu,listeExoUser)
 
         }
         returne.append(avancementEtu)
@@ -155,7 +156,7 @@ def getInfoSeance(tabdate, listeExoUser, nomEtu):
 
 if __name__ == '__main__':
     data = []
-    dryrun = False
+    dryrun = True
     if dryrun:
 
         listeEtu = listUser()
