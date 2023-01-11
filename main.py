@@ -44,7 +44,6 @@ def listExoUser(etu,fichier):
     for trace in fichier:
         if trace.get('username') == etu:
             fln = trace.get('filePath','')
-            fln.lower()
             if fln not in listExo and fln != '':
                 if re.search(".*.c", fln):
                     listExo.append(fln)
@@ -52,24 +51,80 @@ def listExoUser(etu,fichier):
         # Récupération uniquememnt des user étudiants (les profs n'ont pas de chiffre dans leur users)
     return listExo
 
-def tauxReussite(etu,exo,fichier):
+# def tauxReussite(etu,exo,fichier):
+#     truc={}
+#     status = ""
+#     tauxreussite = 0
+#
+#     total=0
+#     res = 0
+#
+#     for trace in fichier:
+#         #    "timestamp": "2022-10-20T06:46:18.217Z",
+#         tmpdate = datetime.strptime('2000-10-20T06:46:18.217Z','%Y-%m-%dT%H:%M:%S.%fZ')
+#
+#         args = trace.get('args')
+#         if trace.get('username') == etu and trace.get('args').find(exo) and trace.get('command') == "gcc":
+#             newdate = datetime.strptime(trace.get('timestamp'), '%Y-%m-%dT%H:%M:%S.%fZ')
+#             if tmpdate - newdate < timedelta(seconds=1):
+#                 tmpdate = newdate
+#
+#         if trace.get('response') == "":
+#             status = "OK"
+#             tauxreussite = tauxreussite + 1
+#         else:
+#             status = "error"
+#
+#             total = total + 1
+#
+#             truc2 = {exo: status}
+#
+#             truc.update(truc2)
+#
+#         if tauxreussite > 0:
+#             res = tauxreussite/total*100
+#
+#
+#     return truc, res
 
-    for trace in fichier:
-        #    "timestamp": "2022-10-20T06:46:18.217Z",
-        tmp = datetime.strptime('2000-10-20T06:46:18.217Z','%Y-%m-%dT%H:%M:%S.%fZ')
 
-        if trace.get('username') == etu and trace.get('fileName') == exo and trace.get('command') == "gcc":
-            tmpZZZ = datetime.strptime(trace.get('timestamp'), '%Y-%m-%dT%H:%M:%S.%fZ')
-            if tmp - tmpZZZ < timedelta(seconds=1):
-                tmp = tmpZZZ
-            if trace.get('response') == "":
-                status = "OK"
-            else:
-                status = "error"
+def rtuc(etu, listExo, fichier):
 
-    return tmp,status
+    tabfinal = {}
+    status = ""
+    tauxreussite = 0
+    total = 0
+    resTaux = 0
 
 
+    for exo in listExo:
+        tmpdate = datetime.strptime('2000-10-20T06:46:18.217Z', '%Y-%m-%dT%H:%M:%S.%fZ')
+        for trace in fichier:
+            #    "timestamp": "2022-10-20T06:46:18.217Z",
+            if trace.get('username') == etu and trace.get('args').find(exo) and trace.get('command') == "gcc":
+                newdate = datetime.strptime(trace.get('timestamp'), '%Y-%m-%dT%H:%M:%S.%fZ')
+                if (newdate > tmpdate):
+                    tmpdate = newdate
+
+        for trace in fichier:
+            actueldate = datetime.strptime(trace.get('timestamp'), '%Y-%m-%dT%H:%M:%S.%fZ')
+            # print("TMP DATE", tmpdate)
+            # print("DATE REEL",actuelDate)
+
+            if trace.get('username') == etu and trace.get('args').find(exo) and trace.get('command') == "gcc" and actueldate == tmpdate:
+                if trace.get('response') == "":
+                    tabtmp = {exo: "OK"}
+                    tauxreussite = tauxreussite + 1
+                else:
+                    tabtmp = {exo: "error"}
+
+                tabfinal.update(tabtmp)
+
+    if tauxreussite > 0 and len(listExo) > 0:
+
+        resTaux = tauxreussite / len(listExo) * 100
+
+    return tabfinal, resTaux
 
 if __name__ == '__main__':
     data = []
@@ -79,13 +134,38 @@ if __name__ == '__main__':
     fichier_vm = lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
 
     listeEtu = listUser(fichier_vm)
-    tab = []
+
+    truc = {}
+
     for nomEtu in listeEtu:
-        etudiant = {
-            "username": nomEtu,
-            "listExo": listExoUser(nomEtu,fichier_vm),
-            "nbExo": len(listExoUser(nomEtu,fichier_vm))
-        }
-        data.append(etudiant)
+        listReussite = []
+        listExo = listExoUser(nomEtu, fichier_vm)
+        val, tauxR = rtuc(nomEtu,listExoUser(nomEtu, fichier_vm), fichier_in)
+        # listReussite.append(val)
+        # truc2 = {
+        print(nomEtu,": " ,val)
+        print('TauxR' , tauxR)
+        # }
+        # truc.update(truc2)
+
+    #print(truc)
+
     ecrireJson(data, "etuInfo")
 
+
+"""    etudiant = {
+            "username": nomEtu,
+            "listExo": listExoUser(nomEtu,fichier_vm),
+            "nbExo": len(listExoUser(nomEtu,fichier_vm)),
+            "taux_reussite": "10"
+        }
+        data.append(etudiant)
+
+        for nomExo in listExoUser(nomEtu,fichier_vm):
+            tab.append(tauxReussite(nomEtu,nomExo, fichier_in))
+
+
+        print(tab) """
+
+
+   # ecrireJson(data, "etuInfo")
