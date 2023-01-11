@@ -3,6 +3,7 @@ from datetime import datetime, date, timedelta
 import statistics
 import re
 from datetime import datetime
+from decimal import Decimal
 
 
 # Lecture du fichier JSON
@@ -92,27 +93,39 @@ def tauxReussite(etu, listExo):
     fichier = lectureJson("662cfbebea6d4042934526197165d805_instructions.json")
 
     tabfinal = {}
-    status = ""
     tauxreussite = 0
     total = 0
     resTaux = 0
 
 
     for exo in listExo:
+
         tmpdate = datetime.strptime('2000-10-20T06:46:18.217Z', '%Y-%m-%dT%H:%M:%S.%fZ')
+        exoS = exo.split("/")
         for trace in fichier:
-            #    "timestamp": "2022-10-20T06:46:18.217Z",
-            if trace.get('username') == etu and trace.get('args').find(exo) and trace.get('command') == "gcc":
+            args = trace.get('args').split(" ")
+
+            if trace.get('username') == etu and args.count(exoS[-1]) > 0 and trace.get('command') == "gcc":
+
                 newdate = datetime.strptime(trace.get('timestamp'), '%Y-%m-%dT%H:%M:%S.%fZ')
+
                 if (newdate > tmpdate):
+                    #
+                    # print(exoS[-1])
+                    # print("NEW DATE = ", newdate)
+                    # print("TMP DATE = ", tmpdate)
                     tmpdate = newdate
+
+        # print(nomEtu)
+        # print(exo)
+        # print(tmpdate)
 
         for trace in fichier:
             actueldate = datetime.strptime(trace.get('timestamp'), '%Y-%m-%dT%H:%M:%S.%fZ')
             # print("TMP DATE", tmpdate)
             # print("DATE REEL",actuelDate)
 
-            if trace.get('username') == etu and trace.get('args').find(exo) and trace.get('command') == "gcc" and actueldate == tmpdate:
+            if trace.get('username') == etu and trace.get('args').find(exoS[-1])  and trace.get('command') == "gcc" and actueldate == tmpdate:
                 if trace.get('response') == "":
                     tabtmp = {exo: "OK"}
                     tauxreussite = tauxreussite + 1
@@ -125,7 +138,7 @@ def tauxReussite(etu, listExo):
 
         resTaux = tauxreussite / len(listExo) * 100
 
-    return resTaux
+    return tabfinal, round(resTaux)
 
 if __name__ == '__main__':
     data = []
@@ -141,10 +154,10 @@ if __name__ == '__main__':
     for nomEtu in listeEtu:
         listReussite = []
         listExo = listExoUser(nomEtu, fichier_vm)
-        tauxR = tauxReussite(nomEtu,listExoUser(nomEtu, fichier_vm))
+        val,tauxR = tauxReussite(nomEtu,listExoUser(nomEtu, fichier_vm))
         # listReussite.append(val)
         # truc2 = {
-        print(nomEtu,": " )
+        print(val)
         print('TauxR' , tauxR)
         # }
         # truc.update(truc2)
