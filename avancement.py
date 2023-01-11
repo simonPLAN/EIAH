@@ -3,6 +3,9 @@ from datetime import datetime, date, timedelta
 import statistics
 import re
 from dataclasses import dataclass
+import matplotlib.pyplot as plt
+
+from sklearn.cluster import KMeans
 
 from main import listExoUser
 
@@ -33,8 +36,6 @@ def listGCC(etudiant, tabdate, nomexo):
                 if data[i]['command'] == "gcc":
                     dategcc = datetime.strptime(data[i]['timestamp'], '%Y-%m-%dT%H:%M:%S.%fZ')
                     if datedebut < dategcc < datefin:
-                        print("nom gcc " + data[i]['args'])
-                        print("nom exo " + nomexo)
                         test = str(nomexo).split("/")
                         if test[-1] in data[i]['args']:
                             gcc = {
@@ -100,13 +101,37 @@ def getseance(date):
 
 
 def getavancementexercice(listeExoUser, nomEtu, i, date):
-    listeexerciceReturn = []
+    global test
+    test = "null"
 
+    listeexerciceReturn = []
     for exo in listeExoUser:
+
+        gcc = listGCC(nomEtu, date, exo)
+        if not gcc:
+            test = "liste vide"
+        else:
+            for i in gcc:
+                test = str(i['responce'])
+
+                if test != "":
+
+                    if test.__contains__("error"):
+                        test2 = test.split("error: ")
+                        test = test2
+                    if test.__contains__("warning"):
+                        test2 = test.split("warning: ")
+                        test = test2
+
+                if test == "":
+                    test = "exoFini"
+                else:
+                    test = "probleme"
         exercice = {
             "nomExercice": exo,
             "statut": "a faire",
-            "gcc": listGCC(nomEtu, date, exo)
+            "gcc": gcc,
+            "error": test
         }
         listeexerciceReturn.append(exercice)
 
@@ -119,7 +144,10 @@ def getInfoSeance(tabdate, listeExoUser, nomEtu):
         avancementEtu = {
             "dateDebut": tabdate[i][0],
             "dateFin": tabdate[i][1],
-            "exercice": getavancementexercice(listeExoUser, nomEtu, i, tabdate)
+            "statutGlobalSeance": "a faire",
+            "exercice": getavancementexercice(listeExoUser, nomEtu, i, tabdate),
+            "tauxReussite": "null"
+
         }
         returne.append(avancementEtu)
     return returne
@@ -127,26 +155,80 @@ def getInfoSeance(tabdate, listeExoUser, nomEtu):
 
 if __name__ == '__main__':
     data = []
+    dryrun = False
+    if dryrun:
 
-    listeEtu = listUser()
+        listeEtu = listUser()
 
-    for nomEtu in listeEtu:
-        print(nomEtu)
-        fichier_vm = lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
-        listeExoUser = listExoUser(nomEtu, fichier_vm)
-        tabdate = []
-        date = rechercheseance(nomEtu)
-        x = getseance(date)
-        tabdate = x.tab
-        nbseance = x.nbseance
+        for nomEtu in listeEtu:
+            print(nomEtu)
+            fichier_vm = lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
+            listeExoUser = listExoUser(nomEtu, fichier_vm)
+            tabdate = []
+            date = rechercheseance(nomEtu)
+            x = getseance(date)
+            tabdate = x.tab
+            nbseance = x.nbseance
 
-        etudiant = {
-            "username": nomEtu,
-            "nbseance": nbseance,
-            "seance": getInfoSeance(tabdate, listeExoUser, nomEtu)
-        }
-        data.append(etudiant)
+            etudiant = {
+                "username": nomEtu,
+                "nbseance": nbseance,
+                "seance": getInfoSeance(tabdate, listeExoUser, nomEtu)
+            }
+            data.append(etudiant)
 
-    ecrireJson(data, "avancement")
+        ecrireJson(data, "avancement")
 
-    print(listeEtu)
+        print(listeEtu)
+    else:
+        vecteur = []
+
+        fichier_vm = lectureJson("avancement.json")
+        for i in fichier_vm:
+            vecteurPersonne = []
+            nb = 0
+            error = 0
+
+            for j in i['seance']:
+
+                if j['statutGlobalSeance'] == 'reflexion':
+                    nb = 0
+                if j['statutGlobalSeance'] == 'dev':
+                    nb = 1
+
+                if j['statutGlobalSeance'] == 'terminer':
+                    nb = 2
+                if j['statutGlobalSeance'] == 'debug':
+                    nb = 3
+                vecteurPersonne.append(j['tauxReussite'])
+                exercice = j['exercice']
+                for o in exercice:
+
+                    gcc = o['error']
+
+                    if gcc == 'exoFini':
+                        error = error + 1
+                    if gcc == 'probleme':
+                        error = error - 1
+
+            vecteurPersonne.append(nb)
+            vecteurPersonne.append(error)
+
+            vecteur.append(vecteurPersonne)
+
+        print(vecteur)
+        # Initialisez le modèle KMeans
+        kmeans = KMeans(n_clusters=3, random_state=0).fit(vecteur)
+
+        # Prédisez les clusters de chaque point de donnée
+        predictions = kmeans.predict(vecteur)
+        print(predictions)
+        # Créez un plot avec les points de données et les clusters obtenus
+        for i in range(len(vecteur)):
+            if predictions[i] == 0:
+                plt.plot(vecteur[i][0], vecteur[i][1], 'ro')
+            else:
+                plt.plot(vecteur[i][0], vecteur[i][1], 'bo')
+
+        # Affichez le plot
+        plt.show()
