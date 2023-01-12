@@ -19,6 +19,7 @@ def lectureJson(nomFichier):
     fileObject.close()
     return aList
 
+import statut as s
 
 # Ecriture de la list de dictionnaire dans le fichier JSON
 def ecrireJson(data, nomFichier):
@@ -161,6 +162,7 @@ if __name__ == '__main__':
 
         listeEtu = listUser()
 
+        listTraceInteraction = []
         for nomEtu in listeEtu:
             print(nomEtu)
             fichier_vm = lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
@@ -170,6 +172,12 @@ if __name__ == '__main__':
             x = getseance(date)
             tabdate = x.tab
             nbseance = x.nbseance
+
+            tracesUser = []
+            for ligne in fichier_vm:
+                if ligne["username"] == nomEtu:
+                    tracesUser.append(ligne)
+            listTraceInteraction.append(tracesUser)
 
             etudiant = {
                 "username": nomEtu,
@@ -181,6 +189,11 @@ if __name__ == '__main__':
         ecrireJson(data, "avancement")
 
         print(listeEtu)
+
+        for nomEtu, traces in zip(listeEtu, listTraceInteraction):
+            s.statutEtu(nomEtu, traces)
+
+
     else:
         vecteur = []
 
@@ -191,28 +204,35 @@ if __name__ == '__main__':
             error = 0
 
             for j in i['seance']:
-
-                if j['statutGlobalSeance'] == 'reflexion':
-                    nb = 0
-                if j['statutGlobalSeance'] == 'dev':
-                    nb = 1
-
-                if j['statutGlobalSeance'] == 'terminer':
-                    nb = 2
-                if j['statutGlobalSeance'] == 'debug':
-                    nb = 3
-                vecteurPersonne.append(j['tauxReussite'])
+                cptRef = 0
+                cptDev = 0
+                cptDebug = 0
+                cptEnd = 0
+                cptProbleme = 0
+                #vecteurPersonne.append(j['tauxReussite'])
                 exercice = j['exercice']
                 for o in exercice:
+                    if o['statut'] == 'reflexion':
+                        cptRef += 1
+                    if o['statut'] == 'dev':
+                        cptDev += 1
+                    if o['statut'] == 'termine':
+                        cptEnd += 1
+                    if o['statut'] == 'debug':
+                        cptDebug += 1
 
-                    gcc = o['error']
+                    if o['error'] == 'probleme':
+                        cptProbleme += 1
 
-                    if gcc == 'exoFini':
-                        error = error + 1
-                    if gcc == 'probleme':
-                        error = error - 1
+            vecteurPersonne.append(cptRef)
+            vecteurPersonne.append(cptDev)
+            vecteurPersonne.append(cptDebug)
+            vecteurPersonne.append(cptEnd)
 
-            vecteurPersonne.append(nb)
+            if cptProbleme >= 1 :
+                error = 1
+            else :
+                error = 0
             vecteurPersonne.append(error)
 
             vecteur.append(vecteurPersonne)
