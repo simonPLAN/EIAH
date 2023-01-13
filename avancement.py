@@ -251,7 +251,6 @@ if __name__ == '__main__':
                 plt.title(nom[i] + " par "+nom[j])
                 plt.xlabel(nom[i])
                 plt.ylabel(nom[j])
-
+                plt.savefig(nom[i] + "_par_"+nom[j]+".png")
                 plt.show()
-                plt.savefig(nom[i] + " par "+nom[j]+".jpg")
 
