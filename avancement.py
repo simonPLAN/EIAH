@@ -1,38 +1,14 @@
-import json
 from datetime import datetime, date, timedelta
-import statistics
 import re
 from dataclasses import dataclass
-import matplotlib.pyplot as plt
-import numpy as np
-
-from sklearn.cluster import KMeans
-
-from main import listExoUser
-
-import main
-
-
-# Lecture du fichier JSON
-def lectureJson(nomFichier):
-    fileObject = open(nomFichier, "r")
-    jsonContent = fileObject.read()
-    aList = json.loads(jsonContent)
-    fileObject.close()
-    return aList
-
 
 import statut as s
-
-
-# Ecriture de la list de dictionnaire dans le fichier JSON
-def ecrireJson(data, nomFichier):
-    with open(nomFichier + '.json', 'w') as mon_fichier:
-        json.dump(data, mon_fichier, indent=2)
+import tauxReussite as tr
+import main as m
 
 
 def listGCC(etudiant, tabdate, nomexo):
-    data = lectureJson("662cfbebea6d4042934526197165d805_instructions.json")
+    data = m.lectureJson("662cfbebea6d4042934526197165d805_instructions.json")
     tab = []
     for date in range(len(tabdate)):
         datedebut = datetime.strptime(tabdate[date][0], '%Y-%m-%dT%H:%M:%S.%fZ')
@@ -53,9 +29,9 @@ def listGCC(etudiant, tabdate, nomexo):
                             tab.append(gcc)
     return tab
 
-
+"""
 def listUser():
-    fichier = lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
+    fichier = m.lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
     listEtu = []
     for i in range(len(fichier)):
         etu = fichier[i]['username']
@@ -64,7 +40,7 @@ def listUser():
             if re.search(".*[0-9].*", etu):
                 listEtu.append(etu)
     return listEtu
-
+"""
 
 @dataclass
 class doubleret():
@@ -73,7 +49,7 @@ class doubleret():
 
 
 def rechercheseance(etudiant):
-    data = lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
+    data = m.lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
     date = []
     for i in data:
         if i['username'] == etudiant:
@@ -150,107 +126,45 @@ def getInfoSeance(tabdate, listeExoUser, nomEtu):
         avancementEtu = {
             "dateDebut": tabdate[i][0],
             "dateFin": tabdate[i][1],
-            "statutGlobalSeance": "a faire",
             "exercice": getavancementexercice(listeExoUser, nomEtu, i, tabdate),
-            "tauxReussite": main.tauxReussite(nomEtu, listeExoUser)
+            "tauxReussite": tr.tauxReussite(nomEtu, listeExoUser)
 
         }
         returne.append(avancementEtu)
     return returne
 
 
-if __name__ == '__main__':
+def generationIndicateurs () :
     data = []
-    dryrun = False
-    if dryrun:
+    fichier_vm = m.lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
+    listeEtu = m.listUser(fichier_vm)
 
-        listeEtu = listUser()
+    listTraceInteraction = []
+    for nomEtu in listeEtu:
+        print(nomEtu)
+        listeExoUser = m.listExoUser(nomEtu, fichier_vm)
+        date = rechercheseance(nomEtu)
+        x = getseance(date)
+        tabdate = x.tab
+        nbseance = x.nbseance
 
-        listTraceInteraction = []
-        for nomEtu in listeEtu:
-            print(nomEtu)
-            fichier_vm = lectureJson("662cfbebea6d4042934526197165d805_vmInteractions.json")
-            listeExoUser = listExoUser(nomEtu, fichier_vm)
-            tabdate = []
-            date = rechercheseance(nomEtu)
-            x = getseance(date)
-            tabdate = x.tab
-            nbseance = x.nbseance
+        #Récupération des traces propre à chacun des utilisateurs
+        tracesUser = []
+        for ligne in fichier_vm:
+            if ligne["username"] == nomEtu:
+                tracesUser.append(ligne)
+        listTraceInteraction.append(tracesUser)
 
-            tracesUser = []
-            for ligne in fichier_vm:
-                if ligne["username"] == nomEtu:
-                    tracesUser.append(ligne)
-            listTraceInteraction.append(tracesUser)
+        #Récupération des informations pour chaque étudiant
+        etudiant = {
+            "username": nomEtu,
+            "nbseance": nbseance,
+            "seance": getInfoSeance(tabdate, listeExoUser, nomEtu)
+        }
+        data.append(etudiant)
 
-            etudiant = {
-                "username": nomEtu,
-                "nbseance": nbseance,
-                "seance": getInfoSeance(tabdate, listeExoUser, nomEtu)
-            }
-            data.append(etudiant)
+    m.ecrireJson(data, "avancement")
 
-        ecrireJson(data, "avancement")
-
-        print(listeEtu)
-
-        for nomEtu, traces in zip(listeEtu, listTraceInteraction):
-            s.statutEtu(nomEtu, traces)
-
-
-    else:
-        vecteur = []
-
-        fichier_vm = lectureJson("avancement.json")
-        for i in fichier_vm:
-            vecteurPersonne = []
-            nb = 0
-            error = 0
-            cptRef = 0
-            cptDev = 0
-            cptDebug = 0
-            cptEnd = 0
-            cptProbleme = 0
-            tauxDeResussite = 0
-            for j in i['seance']:
-                tauxDeResussite = +j['tauxReussite'][1]
-                exercice = j['exercice']
-                for o in exercice:
-                    if o['statut'] == 'reflexion':
-                        cptRef += 1
-                    if o['statut'] == 'dev':
-                        cptDev += 1
-                    if o['statut'] == 'termine':
-                        cptEnd += 1
-                    if o['statut'] == 'debug':
-                        cptDebug += 1
-                    if o['error'] == 'probleme':
-                        cptProbleme += 1
-            vecteurPersonne.append(tauxDeResussite)
-            vecteurPersonne.append(cptRef)
-            vecteurPersonne.append(cptDev)
-            vecteurPersonne.append(cptDebug)
-            vecteurPersonne.append(cptEnd)
-
-            if cptProbleme >= 1:
-                error = 1
-            else:
-                error = 0
-            vecteurPersonne.append(error)
-
-            vecteur.append(vecteurPersonne)
-        print(vecteur)
-        data = np.array(vecteur)
-        kmeans = KMeans(n_clusters=4, random_state=0).fit(data)
-        nom=["Taux de reussite","reflexion","developpement","termine","debug","probleme"]
-        for i in range(6):
-            for j in range(6):
-
-                plt.scatter(data[:, i], data[:, j], c=kmeans.labels_)
-                plt.scatter(kmeans.cluster_centers_[:, i], kmeans.cluster_centers_[:, j], c='red')
-                plt.title(nom[i] + " par "+nom[j])
-                plt.xlabel(nom[i])
-                plt.ylabel(nom[j])
-                plt.savefig(nom[i] + "_par_"+nom[j]+".png")
-                plt.show()
-
+    #Définition du statut d'avancement de chaque exercice pour chaque séance pour chaque étudiant
+    for nomEtu, traces in zip(listeEtu, listTraceInteraction):
+        s.statutEtu(nomEtu, traces)
