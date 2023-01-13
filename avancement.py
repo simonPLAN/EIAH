@@ -4,12 +4,14 @@ import statistics
 import re
 from dataclasses import dataclass
 import matplotlib.pyplot as plt
+import numpy as np
 
 from sklearn.cluster import KMeans
 
 from main import listExoUser
 
 import main
+
 
 # Lecture du fichier JSON
 def lectureJson(nomFichier):
@@ -19,7 +21,9 @@ def lectureJson(nomFichier):
     fileObject.close()
     return aList
 
+
 import statut as s
+
 
 # Ecriture de la list de dictionnaire dans le fichier JSON
 def ecrireJson(data, nomFichier):
@@ -148,7 +152,7 @@ def getInfoSeance(tabdate, listeExoUser, nomEtu):
             "dateFin": tabdate[i][1],
             "statutGlobalSeance": "a faire",
             "exercice": getavancementexercice(listeExoUser, nomEtu, i, tabdate),
-            "tauxReussite": main.tauxReussite(nomEtu,listeExoUser)
+            "tauxReussite": main.tauxReussite(nomEtu, listeExoUser)
 
         }
         returne.append(avancementEtu)
@@ -157,7 +161,7 @@ def getInfoSeance(tabdate, listeExoUser, nomEtu):
 
 if __name__ == '__main__':
     data = []
-    dryrun = True
+    dryrun = False
     if dryrun:
 
         listeEtu = listUser()
@@ -202,14 +206,14 @@ if __name__ == '__main__':
             vecteurPersonne = []
             nb = 0
             error = 0
-
+            cptRef = 0
+            cptDev = 0
+            cptDebug = 0
+            cptEnd = 0
+            cptProbleme = 0
+            tauxDeResussite = 0
             for j in i['seance']:
-                cptRef = 0
-                cptDev = 0
-                cptDebug = 0
-                cptEnd = 0
-                cptProbleme = 0
-                #vecteurPersonne.append(j['tauxReussite'])
+                tauxDeResussite = +j['tauxReussite'][1]
                 exercice = j['exercice']
                 for o in exercice:
                     if o['statut'] == 'reflexion':
@@ -220,36 +224,34 @@ if __name__ == '__main__':
                         cptEnd += 1
                     if o['statut'] == 'debug':
                         cptDebug += 1
-
                     if o['error'] == 'probleme':
                         cptProbleme += 1
-
+            vecteurPersonne.append(tauxDeResussite)
             vecteurPersonne.append(cptRef)
             vecteurPersonne.append(cptDev)
             vecteurPersonne.append(cptDebug)
             vecteurPersonne.append(cptEnd)
 
-            if cptProbleme >= 1 :
+            if cptProbleme >= 1:
                 error = 1
-            else :
+            else:
                 error = 0
             vecteurPersonne.append(error)
 
             vecteur.append(vecteurPersonne)
-
         print(vecteur)
-        # Initialisez le modèle KMeans
-        kmeans = KMeans(n_clusters=3, random_state=0).fit(vecteur)
+        data = np.array(vecteur)
+        kmeans = KMeans(n_clusters=4, random_state=0).fit(data)
+        nom=["Taux de reussite","reflexion","developpement","termine","debug","probleme"]
+        for i in range(6):
+            for j in range(6):
 
-        # Prédisez les clusters de chaque point de donnée
-        predictions = kmeans.predict(vecteur)
-        print(predictions)
-        # Créez un plot avec les points de données et les clusters obtenus
-        for i in range(len(vecteur)):
-            if predictions[i] == 0:
-                plt.plot(vecteur[i][0], vecteur[i][1], 'ro')
-            else:
-                plt.plot(vecteur[i][0], vecteur[i][1], 'bo')
+                plt.scatter(data[:, i], data[:, j], c=kmeans.labels_)
+                plt.scatter(kmeans.cluster_centers_[:, i], kmeans.cluster_centers_[:, j], c='red')
+                plt.title(nom[i] + " par "+nom[j])
+                plt.xlabel(nom[i])
+                plt.ylabel(nom[j])
 
-        # Affichez le plot
-        plt.show()
+                plt.show()
+                plt.savefig(nom[i] + " par "+nom[j]+".jpg")
+
