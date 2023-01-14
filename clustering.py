@@ -9,17 +9,18 @@ from sklearn.metrics import silhouette_score
 def getDataClustering ():
     vecteur = []
 
-    fichier_vm = m.lectureJson("avancement.json")
-    for i in fichier_vm:
+    fichier_av = m.lectureJson("avancement.json")
+    for user in fichier_av:
         vecteurPersonne = []
         nbSeance = 0
         cptRef = 0
         cptDev = 0
         cptDebug = 0
         cptEnd = 0
-        cptProbleme = 0
         tauxDeResussite = 0
-        for j in i['seance']:
+        difficulteSeance = 0
+        for j in user['seance']:
+            cptProbleme = 0
             #Indicateur : nombre séance
             nbSeance+=1
             #Indicateur : taux de réussite
@@ -37,25 +38,32 @@ def getDataClustering ():
                     cptDebug += 1
                 if o['error'] == 'probleme':
                     cptProbleme += 1
+            # Indicateur : élève en difficulté
+            if cptProbleme >= 1:
+                difficulteSeance += 1
+
         if nbSeance == 0 :
             nbSeance = 1
+        moyRef = cptRef/nbSeance
+        moyDev = cptDev/nbSeance
+        moyDebug = cptDebug/nbSeance
+        moyEnd = cptEnd/nbSeance
+        nbStatutMoy = moyRef + moyDev + moyDebug + moyEnd
+        if nbStatutMoy == 0 :
+            nbStatutMoy = 1
         #Ajout des indicateurs dans le vecteur de l'utiilisateur
         vecteurPersonne.append(tauxDeResussite)
-        vecteurPersonne.append(cptRef/nbSeance)
-        vecteurPersonne.append(cptDev/nbSeance)
-        vecteurPersonne.append(cptDebug/nbSeance)
-        vecteurPersonne.append(cptEnd/nbSeance)
+        vecteurPersonne.append(moyRef/nbStatutMoy)
+        vecteurPersonne.append(moyDev/nbStatutMoy)
+        vecteurPersonne.append(moyDebug/nbStatutMoy)
+        vecteurPersonne.append(moyEnd/nbStatutMoy)
+        vecteurPersonne.append(difficulteSeance/nbSeance)
         vecteurPersonne.append(nbSeance)
-        #Indicateur : élève en difficulté
-        if cptProbleme >= 1:
-            error = 1
-        else:
-            error = 0
-        vecteurPersonne.append(error)
         #Ajout du vecteur de l'utilisateur dans le vecteur final
         vecteur.append(vecteurPersonne)
 
     data = np.array(vecteur)
+    print(data)
     return data
 
 #Récupère le nombre de cluster le plus adaptés aux donnés (score silhouetteà
@@ -75,9 +83,10 @@ def getNbCluster (data) :
         silhouette_coefficients.append(score)
     #print(silhouette_coefficients)
     nbCluster = silhouette_coefficients.index(max(silhouette_coefficients))+2
+    print(nbCluster)
 
     #Affichage du score silhouette
-    plt.style.use("fivethirtyeight")
+    #plt.style.use("fivethirtyeight")
     plt.plot(range(2, 11), silhouette_coefficients)
     plt.xticks(range(2, 11))
     plt.xlabel("Number of Clusters")
